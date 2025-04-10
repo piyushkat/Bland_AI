@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+python-docx
+langchain
+langchain-openai
+langchain-huggingface
+chromadb
+requests
+torch
+numpy
+python-dotenv

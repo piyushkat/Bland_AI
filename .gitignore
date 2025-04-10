@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Project-specific
+processed_docs/
+transcript.json
+country_codes.json
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Misc
+*.log
